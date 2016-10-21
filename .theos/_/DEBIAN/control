@@ -1,0 +1,10 @@
+Package: com.chikuwa.onehandkey
+Name: OneHandKey
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
+Version: 0.0.1-1+debug
+Installed-Size: 120
